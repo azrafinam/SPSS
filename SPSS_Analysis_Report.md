@@ -286,27 +286,3 @@ Rural and urban percentages are virtually identical (roughly 8–9% with disease
 5. **Rural services:** Descriptive rural majority (54.3%) supports maintaining mobile clinics or transport vouchers even though rural–urban outcome differences were not significant here.
 
 ---
-
-## References
-
-Ahinkorah, B. O., Seidu, A.-A., & Budu, E. (2024). Uncovering women's healthcare access challenges in LMICs. *PLOS ONE*, *19*(1), e0296578. https://doi.org/10.1371/journal.pone.0296578
-
-Govindarajan, P., & Bhatt, M. (2022). Research on disparities in primary health care in rural versus urban areas. *International Journal of Environmental Research and Public Health*, *19*(13), 7956. https://doi.org/10.3390/ijerph19137956
-
-Kivimäki, M., et al. (2020). Association between socioeconomic status and development of health conditions in adulthood. *The Lancet Public Health*, *5*(3), e140–e149. https://doi.org/10.1016/S2468-2667(19)30248-8
-
-Lagdon, S., Armour, C., & Stringer, M. (2014). Adult experience of mental and physical health problems and intimate partner violence. *Mental Health in Family Medicine*, *11*(1), 33–44.
-
-Loria, A., & Camacho, A. (2025). Disparities in healthcare access in urban and rural communities. *International Journal of Public Health Research*, *14*(2), 112–128.
-
-Louie, G. H., & Ward, M. M. (2011). Socioeconomic and ethnic differences in disease burden and physical function in older adults. *American Journal of Public Health*, *101*(7), 1322–1329. https://doi.org/10.2105/AJPH.2010.199455
-
-National Center for Health Research. (2018). Intimate partner violence and chronic health conditions. https://www.center4research.org/partner-violence/
-
-Rahman, T., et al. (2024). Rural–urban disparities in household catastrophic health expenditure in Bangladesh. *International Journal for Equity in Health*, *23*, 47. https://doi.org/10.1186/s12939-024-02125-3
-
-Stangl, A. L., et al. (2021). The Health Stigma and Discrimination Framework. *BMC Medicine*, *17*(1), 31. https://doi.org/10.1186/s12916-019-1271-3
-
-Wang, J., Chen, X., & Liu, Y. (2023). Socioeconomic factors on multiple chronic conditions in Yunnan. *Frontiers in Public Health*, *11*, 1114969. https://doi.org/10.3389/fpubh.2023.1114969
-
-World Health Organization. (2023). Gender and health. https://www.who.int/news-room/facts-in-pictures/detail/gender-and-health
